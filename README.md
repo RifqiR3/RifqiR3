@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-id-here?v=4" width="150" alt="RifqiR3's avatar" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/RifqiR3?v=4" width="150" alt="RifqiR3's avatar" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hey there, I'm Rifqi 👋</h1>
