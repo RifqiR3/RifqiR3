@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey there, I'm Rifqi 👋</h1>
-<p align="center"><em>Final year student | Full-stack developer | Cybersecurity enthusiast</em></p>
+<p align="center"><em>Full-stack developer | Cybersecurity enthusiast</em></p>
 
 <p align="center">
   <a href="https://instagram.com/rfq.rr">
