@@ -1,9 +1,21 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/RifqiR3?v=4" width="150" alt="RifqiR3's avatar" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/121009902?v=4" width="150" alt="RifqiR3's avatar" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hey there, I'm Rifqi 👋</h1>
 <p align="center"><em>Final year student | Full-stack developer | Cybersecurity enthusiast</em></p>
+
+<p align="center">
+  <a href="https://instagram.com/rfq.rr">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/rifqirr">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  </a>
+  <a href="mailto:rifkyirwan68@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -64,9 +76,16 @@ Hi, I’m Rifqi! I’m a final year student with a passion for building full-sta
 ## 📫 Connect With Me
 
 <p align="center">
-  <!-- These will auto-pull from your GitHub profile if you use shields.io social badges -->
   <a href="https://github.com/RifqiR3"><img src="https://img.shields.io/badge/GitHub-RifqiR3-181717?logo=github" /></a>
-  <!-- Add other social links as they appear on your GitHub profile -->
+  <a href="https://instagram.com/rfq.rr">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/rifqirr">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=LinkedIn&logoColor=white" />
+  </a>
+  <a href="mailto:rifkyirwan68@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
