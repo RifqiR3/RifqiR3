@@ -25,7 +25,6 @@ Hi, I’m Rifqi! I’m a final year student with a passion for building full-sta
 
 - 🔐 **Cybersecurity:** I frequently participate in CTF competitions to sharpen my skills.
 - 🛠️ **Go-to Stack:** Next.js, Express, MariaDB, Laravel.
-- 🌐 **Favorite Project:** My blockchain certificate system—seeing blockchain tech in real action is awesome!
 
 ---
 
@@ -41,14 +40,6 @@ Hi, I’m Rifqi! I’m a final year student with a passion for building full-sta
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-
----
-
-## 🌟 Featured Project
-
-### [Blockchain Certificate System](#)
-> A secure, transparent way to issue and verify certificates using blockchain technology.  
-> _"It’s awesome to see how blockchain actually works in the background!"_
 
 ---
 
