@@ -21,10 +21,10 @@
 
 ## 👨‍💻 About Me
 
-Hi, I’m Rifqi! I’m a final year student with a passion for building full-stack applications and exploring the world of cybersecurity. Whether it’s Next.js, Express, MariaDB, or Laravel, I love crafting end-to-end solutions and learning how things work under the hood.
+Just a chill guy who wants to learn just about everything.
 
-- 🔐 **Cybersecurity:** I frequently participate in CTF competitions to sharpen my skills.
 - 🛠️ **Go-to Stack:** Next.js, Express, MariaDB, Laravel.
+- 🔐 **Cybersecurity:** I frequently participate in CTF competitions to sharpen my skills.
 
 ---
 
