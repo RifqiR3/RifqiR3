@@ -63,7 +63,7 @@ Just a chill guy who wants to learn just about everything.
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/RifqiR3"><img src="https://img.shields.io/badge/GitHub-RifqiR3-181717?logo=github" /></a>
@@ -80,10 +80,9 @@ Just a chill guy who wants to learn just about everything.
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
-- Advanced cybersecurity techniques & CTFs
-- Deepening my knowledge of blockchain technology
-- Scaling full-stack apps for real-world use
+- More cybersecurity stuff & CTFs
+- More web3 stuff
 
 ---
